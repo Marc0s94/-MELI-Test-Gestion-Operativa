@@ -14,10 +14,9 @@ dado un vendedor. Ademas como salida obtendremos un archivo LOG con los siguient
   * Se puede realizar consultas a la API con diferentes **token** de User
   * Se puede realizar consultas a la API con diferentes **seller_id** de User
   
-  ## Modo de Uso
-  
+# Modo de Uso
   Es muy sencillo:
   
-  # Clonamos este repositorio
-  
+  Clonamos este repositorio:
+  git clone https://github.com/Marc0s94/-MELI-Test-Gestion-Operativa.git
   
