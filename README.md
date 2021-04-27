@@ -17,6 +17,16 @@ dado un vendedor. Ademas como salida obtendremos un archivo LOG con los siguient
 # Modo de Uso
   Es muy sencillo:
   
-  #Clonamos este repositorio
+  Clonamos este repositorio:
   git clone https://github.com/Marc0s94/-MELI-Test-Gestion-Operativa.git
+  
+  Nos dirigimos a la ruta del script:
+  cd -MELI-Test-Gestion-Operativa
+  
+ # Linea de Comando
+ 
+ Antes de utilizar el script tenga en cuenta lo siguiente:
+ 
+ * Necesitara de un TOKEN de conexion, autorizado por la API de MELI. En caso de no contar con ello, ver DOCUMENTACION DE API MELI para obtenerlo
+ * Ademas necesitara de un ID de vendedor activo en MELI
   
