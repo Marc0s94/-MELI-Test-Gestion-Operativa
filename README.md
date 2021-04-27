@@ -36,9 +36,11 @@ dado un vendedor. Ademas como salida obtendremos un archivo LOG con los siguient
   Clonamos este repositorio:
   git clone https://github.com/Marc0s94/-MELI-Test-Gestion-Operativa.git
   
-  Nos dirigimos a la ruta del script:
+  #Nos dirigimos a la ruta del script:
   cd -MELI-Test-Gestion-Operativa
- 
+  
+  #Podemos ver la ayuda del script:
   ![image](https://user-images.githubusercontent.com/25506305/116181992-f6084b80-a6f1-11eb-8b0b-6974abcb9e37.png)
+  Como vemos nos pides dos parametros, Token y seller_id.
 
  
