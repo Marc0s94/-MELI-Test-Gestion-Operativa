@@ -17,6 +17,6 @@ dado un vendedor. Ademas como salida obtendremos un archivo LOG con los siguient
 # Modo de Uso
   Es muy sencillo:
   
-  Clonamos este repositorio:
+  #Clonamos este repositorio
   git clone https://github.com/Marc0s94/-MELI-Test-Gestion-Operativa.git
   
