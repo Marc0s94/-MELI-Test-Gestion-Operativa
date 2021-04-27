@@ -34,9 +34,11 @@ dado un vendedor. Ademas como salida obtendremos un archivo LOG con los siguient
   Es muy sencillo:
   
   Clonamos este repositorio:
+  
   git clone https://github.com/Marc0s94/-MELI-Test-Gestion-Operativa.git
   
   #Nos dirigimos a la ruta del script:
+  
   cd -MELI-Test-Gestion-Operativa
   
   #Podemos ver la ayuda del script:
