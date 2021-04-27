@@ -45,12 +45,19 @@ dado un vendedor. Ademas como salida obtendremos un archivo LOG con los siguient
   
   ![image](https://user-images.githubusercontent.com/25506305/116181992-f6084b80-a6f1-11eb-8b0b-6974abcb9e37.png)
   
-  Como vemos nos pides dos parametros, Token y seller_id.
+  Como vemos nos pide dos parametros, Token y seller_id.
   
   #Pasamos los argumentos pedidos:
   
   ![image](https://user-images.githubusercontent.com/25506305/116182833-4c29be80-a6f3-11eb-9375-c273c80c31eb.png)
 
   El flag -t [TOKEN] flag -i [seller_id]
+  
+  # Lanzamos el script:
+  
+  ![image](https://user-images.githubusercontent.com/25506305/116183265-f6094b00-a6f3-11eb-807f-69a9eecddb8d.png)
+
+  En la imagen vemos que realiza la consulta y guarda los datos de los items del vendedor pasado como argumento y el LOG con los datos
+  pedidos.
 
  
