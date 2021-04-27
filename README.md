@@ -53,11 +53,15 @@ dado un vendedor. Ademas como salida obtendremos un archivo LOG con los siguient
 
   El flag -t [TOKEN] flag -i [seller_id]
   
-  # Lanzamos el script:
+  #Lanzamos el script:
   
   ![image](https://user-images.githubusercontent.com/25506305/116183265-f6094b00-a6f3-11eb-807f-69a9eecddb8d.png)
 
   En la imagen vemos que realiza la consulta y guarda los datos de los items del vendedor pasado como argumento y el LOG con los datos
   pedidos.
+ 
+  #Output en formato JSON:
+  
+  ![image](https://user-images.githubusercontent.com/25506305/116183730-d7578400-a6f4-11eb-8f52-59afaec466fe.png)
 
  
